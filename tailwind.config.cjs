@@ -13,7 +13,7 @@ module.exports = {
       },
       fontFamily: {
         inter: ["Inter", "sans-serif"],
-        outfit: ["Outfit", "sans-serif"],
+        outfit: ["Sora", "sans-serif"],
       },
     },
   },
